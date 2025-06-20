@@ -1,2 +1,2 @@
 # loja-geek
-<img src="./img/loja-geek.png">
+<img src="./img/loja-geek.png" alt="">
